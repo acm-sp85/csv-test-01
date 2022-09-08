@@ -1,0 +1,149 @@
+[
+ {
+  "FESTIVALS2022": "Berlin International Film Festival",
+  "NOTIFICATIONDATE": "",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "March 23rd - April 3rd",
+  "LOCATION": "Milwaukee (US)",
+  "NOTES": "Contected by the Festival",
+  "ID": "01"
+ },
+ {
+  "FESTIVALS2022": "SXSW",
+  "NOTIFICATIONDATE": "",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "March 30th - April 9th",
+  "LOCATION": "Detroit (US)",
+  "NOTES": "Discounted Entry by the Festival",
+  "ID": "02"
+ },
+ {
+  "FESTIVALS2022": "Cinema du Réel ",
+  "NOTIFICATIONDATE": "?",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "March 11th - 20th",
+  "LOCATION": "Toronto (CA)",
+  "NOTES": "Festhome",
+  "ID": "03"
+ },
+ {
+  "FESTIVALS2022": "CPH:DOX",
+  "NOTIFICATIONDATE": "Mid February 2022",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "March 23rd - April 3rd",
+  "LOCATION": [
+   "Barcelona(ESP)",
+   "Madrid(ESP)"
+  ],
+  "NOTES": "Contected by the Festival",
+  "ID": "04"
+ },
+ {
+  "FESTIVALS2022": "CIFF 46 - Cleveland International Film Festival ",
+  "NOTIFICATIONDATE": "Confirmed?",
+  "STATUS": "Accepted",
+  "FESTIVALDATES": "March 30th - April 9th",
+  "LOCATION": "Cleveland (US)",
+  "NOTES": "Contected by the Festival",
+  "ID": "05"
+ },
+ {
+  "FESTIVALS2022": "BAFICI - Buenos Aires",
+  "NOTIFICATIONDATE": "?",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "March 30th - April 10th",
+  "LOCATION": "Buenos Aires (AR)",
+  "NOTES": "Contected by the Festival",
+  "ID": "06"
+ },
+ {
+  "FESTIVALS2022": "Visions du Réel",
+  "NOTIFICATIONDATE": "Beginning of March 2022",
+  "STATUS": "Not Accepted**",
+  "FESTIVALDATES": "April 7th -17th ",
+  "LOCATION": "Nyon (CH)",
+  "NOTES": "Contected by the Festival",
+  "ID": "07"
+ },
+ {
+  "FESTIVALS2022": "SIFF - Siattle International Film Festival ",
+  "NOTIFICATIONDATE": "March 25th 2022",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "April 14th - 24th ",
+  "LOCATION": "Siattle (US)",
+  "NOTES": "Contected by the Festival",
+  "ID": "08"
+ },
+ {
+  "FESTIVALS2022": "Milwaukee Film Festival ",
+  "NOTIFICATIONDATE": "?",
+  "STATUS": "Accepted",
+  "FESTIVALDATES": "April 21st - May 5th ",
+  "LOCATION": "Milwaukee (US)",
+  "NOTES": "Contected by the Festival",
+  "ID": "09"
+ },
+ {
+  "FESTIVALS2022": "FFF - Freep Film Festival - Detroit",
+  "NOTIFICATIONDATE": "?",
+  "STATUS": "Accepted",
+  "FESTIVALDATES": "April 27th - May 1st",
+  "LOCATION": "Detroit (US)",
+  "NOTES": "Contected by the Festival",
+  "ID": "11"
+ },
+ {
+  "FESTIVALS2022": "HOT DOCS ",
+  "NOTIFICATIONDATE": "Mid - March",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "April 28th - May 8th",
+  "LOCATION": "Toronto (CA)",
+  "NOTES": "Discounted Entry by the Festival",
+  "ID": "12"
+ },
+ {
+  "FESTIVALS2022": "DOCS Barcelona Festival - Festhome",
+  "NOTIFICATIONDATE": "",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "May 17th - 30th",
+  "LOCATION": "Barcelona (ESP)",
+  "NOTES": "Festhome",
+  "ID": "13"
+ },
+ {
+  "FESTIVALS2022": "Docaviv",
+  "NOTIFICATIONDATE": "",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "May 26th - June 6th",
+  "LOCATION": "Tel Aviv (IL)",
+  "NOTES": "Contected by the Festival",
+  "ID": "14"
+ },
+ {
+  "FESTIVALS2022": "Biografilm ",
+  "NOTIFICATIONDATE": "May 31st",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "June 10th - 20th",
+  "LOCATION": "Bologna (IT)",
+  "NOTES": "Festhome",
+  "ID": "15"
+ },
+ {
+  "FESTIVALS2022": "Sheffield DocFest",
+  "NOTIFICATIONDATE": "",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "June 23rd - 28th ",
+  "LOCATION": "Sheffield (UK)",
+  "NOTES": "Festhome",
+  "ID": "16"
+ },
+ {
+  "FESTIVALS2022": "Nashville Film Festival ",
+  "NOTIFICATIONDATE": "Aug 12th",
+  "STATUS": "Not Accepted",
+  "FESTIVALDATES": "Sept 29 - Oct 5th",
+  "LOCATION": "Nashville (US)",
+  "NOTES": "Contected by the Festival",
+  "ID": "17"
+ }
+]
